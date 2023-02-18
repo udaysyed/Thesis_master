@@ -1,0 +1,1 @@
+loss: 0.0075 - accuracy: 0.9978 - precision_1: 0.9978 - recall_1: 0.9977 - val_loss: 0.3312 - val_accuracy: 0.9497 - val_precision_1: 0.9518 - val_recall_1: 0.9481

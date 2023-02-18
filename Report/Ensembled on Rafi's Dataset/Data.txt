@@ -1,0 +1,12 @@
+accuracy: 0.9977 
+val_accuracy: 0.9536 
+Test Accuracy (from trial1): 95.74
+
+trial(2):
+loss: 0.2663
+precision_1: 0.9596 
+- recall_1: 0.9551 
+- auc_1: 0.9899 
+- mae: 0.0028 
+- mse: 0.0021 
+- root_mean_squared_error: 0.0455

@@ -1,0 +1,10 @@
+training accuracy: 0.9545
+validation accuracy: 0.9952
+loss: 0.2890 - 
+test accuracy: 0.9954 
+- precision: 0.9954 
+- recall: 0.9954 
+- auc: 1.0000 
+- mae: 0.0013 
+- mse: 3.2315e-04 
+- root_mean_squared_error: 0.0180
